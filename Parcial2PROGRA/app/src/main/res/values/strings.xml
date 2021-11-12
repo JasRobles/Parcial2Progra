@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcial2PROGRA</string>
+    <string name="tv_Mostrar_String">Selecciona una Mascota</string>
+    <string name="btn_Next">Next</string>
+</resources>
